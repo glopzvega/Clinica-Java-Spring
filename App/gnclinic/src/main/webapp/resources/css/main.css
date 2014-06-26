@@ -1,0 +1,9 @@
+.estatus_1{
+	background-image: url("../img/check_green.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	width: 48px;
+	height: 48px;
+	
+}
